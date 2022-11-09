@@ -6,7 +6,7 @@
 这个项目写了挺久的，之后也会将项目心得一点点上传到个人博客上</br>
 个人能力有限，docker部署微服务项目问题很大，以后再来。项目有任何问题欢迎指出**
 
-**项目实现技术栈：**SpringCloud，Springboot，MybatisPlus,mybatis-plus-log日志，nacos服务注册，配置中心，JJwt token认证，第三方登录（微信登录）（OAuth2.0），Mysql，Redis缓存，SpringCloudGateway网关，hystrix熔断器，SpringSecurity权限管理（未使用），nginx（改用Gateway），阿里云相关组件，swagger。
+**项目实现技术栈：**SpringCloud，Springboot，MybatisPlus,mybatis-plus-log日志，nacos服务注册，配置中心，接口远程调用，JJwt token认证，第三方登录（微信登录）（OAuth2.0），Mysql，Redis缓存，SpringCloudGateway网关，hystrix熔断器，SpringSecurity权限管理（未使用），nginx（改用Gateway），阿里云相关组件，swagger。
 
 **项目结构：** </br>
 本项目采用微服务架构编写，下面是各模块介绍</br>
