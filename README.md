@@ -4,7 +4,8 @@
 **前情提要：首先感谢大佬能来看这个屑项目，项目相关的任何问题劳烦qq。第一次写java的微服务项目，真的从中学到了很多</br>
 接口文档可以参照各个项目的端口号访问swagger文档，每一个模块（除了微信扫码登录需要指定url）都已经整合swagger
 这个项目写了挺久的，之后也会将项目心得一点点上传到个人博客上</br>
-个人能力有限，docker部署微服务项目问题很大，以后再来。项目有任何问题欢迎指出**
+个人能力有限，docker部署微服务项目问题很大，以后再来。项目有任何问题欢迎指出</br>
+数据库方面对原来的数据做了微调，使得联表查询更加简单方便**
 
 **项目实现技术栈：**SpringCloud，Springboot，MybatisPlus,mybatis-plus-log日志，nacos服务注册，配置中心，接口远程调用，JJwt token认证，第三方登录（微信登录）（OAuth2.0），Mysql，Redis缓存，SpringCloudGateway网关，hystrix熔断器，SpringSecurity权限管理（未使用），nginx（改用Gateway），阿里云相关组件，swagger。
 
